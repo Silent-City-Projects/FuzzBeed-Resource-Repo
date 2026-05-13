@@ -1,0 +1,20 @@
+FormKey: 0419E1:Skyrim.esm
+EditorID: CWSiegeTestWorld
+Version2: 13
+Parent:
+  Worldspace: 00003C:Skyrim.esm
+  Flags:
+  - UseMapData
+  - UseImageSpaceData
+Climate: 000812:Skyrim.esm
+Water: 000018:Skyrim.esm
+LodWater: 000018:Skyrim.esm
+LodWaterHeight: 0
+LandDefaults:
+  DefaultLandHeight: 500
+WorldMapOffsetScale: 1
+DistantLodMultiplier: 1
+Flags:
+- SmallWorld
+ObjectBoundsMin: -2, -7
+ObjectBoundsMax: 3, 2

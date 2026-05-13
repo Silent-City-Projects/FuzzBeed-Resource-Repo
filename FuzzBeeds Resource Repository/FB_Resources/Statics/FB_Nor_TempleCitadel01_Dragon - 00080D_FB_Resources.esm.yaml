@@ -1,0 +1,10 @@
+FormKey: 00080D:FB_Resources.esm
+EditorID: FB_Nor_TempleCitadel01_Dragon
+ObjectBounds:
+  First: -1757, -2717, -1417
+  Second: 1757, 1304, 2620
+Model:
+  File: _0FuzzBeed\Nordic Ruins\Temples\Nor_TempleCitadel01_Dragon.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

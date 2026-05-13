@@ -1,0 +1,22 @@
+FormKey: 0419E3:Skyrim.esm
+Flags:
+- HasWater
+Grid:
+  Point: 1, -5
+  Flags: 84796160
+WaterHeight: 3.4028235E+38
+Temporary:
+- MutagenObjectType: PlacedObject
+  FormKey: 00593A:FB_Resources.esm
+  VersionControl: 13484
+  Base: 000810:FB_Resources.esm
+  Placement:
+    Position: 5067.7607, -17312, 1088
+    Rotation: 0, -0, 3.1415927
+- MutagenObjectType: PlacedObject
+  FormKey: 005943:FB_Resources.esm
+  VersionControl: 13484
+  Base: 000810:FB_Resources.esm
+  Placement:
+    Position: 5067.7607, -17312, 1088
+    Rotation: 0, -0, 3.1415927

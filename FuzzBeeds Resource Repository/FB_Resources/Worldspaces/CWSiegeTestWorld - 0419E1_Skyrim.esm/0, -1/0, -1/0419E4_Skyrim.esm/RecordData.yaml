@@ -1,0 +1,91 @@
+FormKey: 0419E4:Skyrim.esm
+Flags:
+- HasWater
+Grid:
+  Point: 0, -5
+  Flags: 84796160
+WaterHeight: 3.4028235E+38
+Temporary:
+- MutagenObjectType: PlacedObject
+  FormKey: 00591D:FB_Resources.esm
+  VersionControl: 13484
+  Base: 00080A:FB_Resources.esm
+  Placement:
+    Position: 3872, -18976, 544
+- MutagenObjectType: PlacedObject
+  FormKey: 005922:FB_Resources.esm
+  VersionControl: 13484
+  Base: 000805:FB_Resources.esm
+  Placement:
+    Position: 3392, -19008, 512
+    Rotation: 0, -0, 3.1415927
+- MutagenObjectType: PlacedObject
+  FormKey: 005933:FB_Resources.esm
+  VersionControl: 13484
+  Base: 00080B:FB_Resources.esm
+  Placement:
+    Position: 2944, -18944, 512
+    Rotation: 0, -0, 3.1415927
+- MutagenObjectType: PlacedObject
+  FormKey: 005934:FB_Resources.esm
+  VersionControl: 13484
+  Base: 000808:FB_Resources.esm
+  Placement:
+    Position: 2656, -18944, 512
+    Rotation: 0, -0, 3.1415927
+- MutagenObjectType: PlacedObject
+  FormKey: 005935:FB_Resources.esm
+  VersionControl: 13484
+  Base: 000809:FB_Resources.esm
+  Placement:
+    Position: 2336, -18944, 512
+    Rotation: 0, -0, 3.1415927
+- MutagenObjectType: PlacedObject
+  FormKey: 005936:FB_Resources.esm
+  VersionControl: 13484
+  Base: 000806:FB_Resources.esm
+  Placement:
+    Position: 1920, -18944, 512
+    Rotation: 0, -0, 3.1415927
+- MutagenObjectType: PlacedObject
+  FormKey: 005937:FB_Resources.esm
+  VersionControl: 13484
+  Base: 000807:FB_Resources.esm
+  Placement:
+    Position: 1312, -18912, 512
+    Rotation: 0, -0, 3.1415927
+- MutagenObjectType: PlacedObject
+  FormKey: 005938:FB_Resources.esm
+  VersionControl: 13484
+  Base: 00080C:FB_Resources.esm
+  Placement:
+    Position: 800, -18880, 512
+    Rotation: 0, -0, 3.1415927
+- MutagenObjectType: PlacedObject
+  FormKey: 00593B:FB_Resources.esm
+  VersionControl: 13484
+  Base: 00593C:FB_Resources.esm
+  Placement:
+    Position: 2624, -17312, 1152
+    Rotation: 0, -0, 2.3561945
+- MutagenObjectType: PlacedObject
+  FormKey: 00593D:FB_Resources.esm
+  VersionControl: 13484
+  Base: 00593E:FB_Resources.esm
+  Placement:
+    Position: 2624, -17312, 1120
+    Rotation: 0, -0, 2.3561945
+- MutagenObjectType: PlacedObject
+  FormKey: 00593F:FB_Resources.esm
+  VersionControl: 13484
+  Base: 005940:FB_Resources.esm
+  Placement:
+    Position: 3845.8804, -17312, 1120
+    Rotation: 0, 0, 1.5707963
+- MutagenObjectType: PlacedObject
+  FormKey: 005941:FB_Resources.esm
+  VersionControl: 13484
+  Base: 005942:FB_Resources.esm
+  Placement:
+    Position: 3868.5078, -17244.117, 1120
+    Rotation: 0, 0, -1.5707963

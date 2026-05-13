@@ -1,0 +1,10 @@
+FormKey: 000809:FB_Resources.esm
+EditorID: FB_Nor_RibTotem01_Owl
+ObjectBounds:
+  First: -117, -28, -117
+  Second: 117, 28, 117
+Model:
+  File: _0FuzzBeed\Nordic Ruins\Ribs\Nor_RibTotem01_Owl.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000

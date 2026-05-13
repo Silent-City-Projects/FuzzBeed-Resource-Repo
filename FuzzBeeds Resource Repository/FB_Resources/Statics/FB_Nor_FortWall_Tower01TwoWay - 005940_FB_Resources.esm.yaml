@@ -1,0 +1,11 @@
+FormKey: 005940:FB_Resources.esm
+VersionControl: 13484
+EditorID: FB_Nor_FortWall_Tower01TwoWay
+ObjectBounds:
+  First: -285, -235, -55
+  Second: 285, 235, 1202
+Model:
+  File: _0FuzzBeed\Nordic Ruins\Fortifications\Nor_FortifiedWall_Tower01TwoWay.nif
+  Data: 0x020000000000000000000000
+MaxAngle: 90
+Unused: 0x000000
